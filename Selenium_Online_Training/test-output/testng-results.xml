@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Add to cart...]]>
+    </line>
+    <line>
+      <![CDATA[Add to cart...]]>
+    </line>
+    <line>
+      <![CDATA[Add to cart...]]>
+    </line>
+    <line>
+      <![CDATA[Add to cart...]]>
+    </line>
+    <line>
+      <![CDATA[Add to cart...]]>
+    </line>
+    <line>
+      <![CDATA[Add to cart...]]>
+    </line>
+    <line>
+      <![CDATA[Add to cart...]]>
+    </line>
+    <line>
+      <![CDATA[Hello TestNG]]>
+    </line>
+    <line>
+      <![CDATA[Hello TestNG]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-04-05T11:21:49 IST" name="Suite" finished-at="2024-04-05T11:22:01 IST" duration-ms="11719">
+    <groups>
+      <group name="ecom">
+        <method signature="To_Launch_LVMH.launch()[pri:0, instance:com.TestNG.To_Launch_LVMH@7e5afaa6]" name="launch" class="com.TestNG.To_Launch_LVMH"/>
+        <method signature="To_Launch_Myntra.launch()[pri:0, instance:com.TestNG.To_Launch_Myntra@1b1426f4]" name="launch" class="com.TestNG.To_Launch_Myntra"/>
+        <method signature="To_Launch_Shoppersstack.launch()[pri:0, instance:com.TestNG.To_Launch_Shoppersstack@32b260fa]" name="launch" class="com.TestNG.To_Launch_Shoppersstack"/>
+      </group> <!-- ecom -->
+      <group name="beauty">
+        <method signature="To_Launch_LorealParis.launch()[pri:0, instance:com.TestNG.To_Launch_LorealParis@63a12c68]" name="launch" class="com.TestNG.To_Launch_LorealParis"/>
+      </group> <!-- beauty -->
+      <group name="car">
+        <method signature="To_Launch_Benz.launch()[pri:0, instance:com.TestNG.To_Launch_Benz@29d89d5d]" name="launch" class="com.TestNG.To_Launch_Benz"/>
+      </group> <!-- car -->
+      <group name="finance">
+        <method signature="To_Launch_OrangeHRM.launch()[pri:0, instance:com.TestNG.To_Launch_OrangeHRM@4a7f959b]" name="launch" class="com.TestNG.To_Launch_OrangeHRM"/>
+      </group> <!-- finance -->
+      <group name="ott">
+        <method signature="To_Launch_AmazonPrime.launch()[pri:0, instance:com.TestNG.To_Launch_AmazonPrime@28f3b248]" name="launch" class="com.TestNG.To_Launch_AmazonPrime"/>
+      </group> <!-- ott -->
+    </groups>
+    <test started-at="2024-04-05T11:21:49 IST" name="Test" finished-at="2024-04-05T11:22:01 IST" duration-ms="11719">
+      <class name="com.TestNG.WorkingWithTestNG">
+        <test-method signature="cart()[pri:0, instance:com.TestNG.WorkingWithTestNG@429bffaa]" started-at="2024-04-05T11:21:49 IST" name="cart" finished-at="2024-04-05T11:21:49 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Add to cart...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cart -->
+        <test-method signature="cart()[pri:0, instance:com.TestNG.WorkingWithTestNG@429bffaa]" started-at="2024-04-05T11:21:49 IST" name="cart" finished-at="2024-04-05T11:21:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Add to cart...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cart -->
+        <test-method signature="cart()[pri:0, instance:com.TestNG.WorkingWithTestNG@429bffaa]" started-at="2024-04-05T11:21:49 IST" name="cart" finished-at="2024-04-05T11:21:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Add to cart...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cart -->
+        <test-method signature="order()[pri:0, instance:com.TestNG.WorkingWithTestNG@429bffaa]" started-at="2024-04-05T11:21:49 IST" name="order" finished-at="2024-04-05T11:21:49 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Add to cart...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- order -->
+        <test-method signature="order()[pri:0, instance:com.TestNG.WorkingWithTestNG@429bffaa]" started-at="2024-04-05T11:21:49 IST" name="order" finished-at="2024-04-05T11:21:49 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Add to cart...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- order -->
+        <test-method signature="order()[pri:0, instance:com.TestNG.WorkingWithTestNG@429bffaa]" started-at="2024-04-05T11:21:49 IST" name="order" finished-at="2024-04-05T11:21:49 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Add to cart...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- order -->
+        <test-method signature="wishList()[pri:0, instance:com.TestNG.WorkingWithTestNG@429bffaa]" started-at="2024-04-05T11:21:49 IST" name="wishList" finished-at="2024-04-05T11:21:49 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Add to cart...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- wishList -->
+        <test-method signature="login()[pri:1, instance:com.TestNG.WorkingWithTestNG@429bffaa]" started-at="2024-04-05T11:21:49 IST" name="login" finished-at="2024-04-05T11:21:49 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hello TestNG]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="search()[pri:2, instance:com.TestNG.WorkingWithTestNG@429bffaa]" started-at="2024-04-05T11:21:49 IST" name="search" finished-at="2024-04-05T11:21:49 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hello TestNG]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- search -->
+      </class> <!-- com.TestNG.WorkingWithTestNG -->
+      <class name="com.TestNG.To_Launch_LorealParis">
+        <test-method signature="launch()[pri:0, instance:com.TestNG.To_Launch_LorealParis@63a12c68]" started-at="2024-04-05T11:21:49 IST" name="launch" finished-at="2024-04-05T11:21:59 IST" duration-ms="9319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+      </class> <!-- com.TestNG.To_Launch_LorealParis -->
+      <class name="com.TestNG.To_Launch_LVMH">
+        <test-method signature="launch()[pri:0, instance:com.TestNG.To_Launch_LVMH@7e5afaa6]" started-at="2024-04-05T11:21:49 IST" name="launch" finished-at="2024-04-05T11:21:58 IST" duration-ms="9209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+      </class> <!-- com.TestNG.To_Launch_LVMH -->
+      <class name="com.TestNG.To_Launch_AmazonPrime">
+        <test-method signature="launch()[pri:0, instance:com.TestNG.To_Launch_AmazonPrime@28f3b248]" started-at="2024-04-05T11:21:49 IST" name="launch" finished-at="2024-04-05T11:22:01 IST" duration-ms="11687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+      </class> <!-- com.TestNG.To_Launch_AmazonPrime -->
+      <class name="com.TestNG.To_Launch_OrangeHRM">
+        <test-method signature="launch()[pri:0, instance:com.TestNG.To_Launch_OrangeHRM@4a7f959b]" started-at="2024-04-05T11:21:49 IST" name="launch" finished-at="2024-04-05T11:21:58 IST" duration-ms="9168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+      </class> <!-- com.TestNG.To_Launch_OrangeHRM -->
+      <class name="com.TestNG.To_Launch_Benz">
+        <test-method signature="launch()[pri:0, instance:com.TestNG.To_Launch_Benz@29d89d5d]" started-at="2024-04-05T11:21:49 IST" name="launch" finished-at="2024-04-05T11:21:59 IST" duration-ms="9360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+      </class> <!-- com.TestNG.To_Launch_Benz -->
+      <class name="com.TestNG.To_Launch_Myntra">
+        <test-method signature="launch()[pri:0, instance:com.TestNG.To_Launch_Myntra@1b1426f4]" started-at="2024-04-05T11:21:49 IST" name="launch" finished-at="2024-04-05T11:21:59 IST" duration-ms="9507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+      </class> <!-- com.TestNG.To_Launch_Myntra -->
+      <class name="com.TestNG.To_Launch_Shoppersstack">
+        <test-method signature="launch()[pri:0, instance:com.TestNG.To_Launch_Shoppersstack@32b260fa]" started-at="2024-04-05T11:21:49 IST" name="launch" finished-at="2024-04-05T11:22:01 IST" duration-ms="11337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+      </class> <!-- com.TestNG.To_Launch_Shoppersstack -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
